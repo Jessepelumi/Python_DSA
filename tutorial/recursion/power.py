@@ -1,3 +1,5 @@
+# Program to calculate the result of raising a base to an exponent
+
 def power(base, exp):
     if not isinstance(base, int):
         return "The base must be an integer"
